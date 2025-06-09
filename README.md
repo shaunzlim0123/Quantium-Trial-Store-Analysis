@@ -1,6 +1,11 @@
 # Quantium Analytics: Trial Store Analysis
 ## Retail Strategy and Analytics
 
+<div align="center">
+  <img src="img/quantium-logo.jpg" alt="Quantium Logo" width="900"/>
+</div>
+
+
 ## Project Overview
 
 This project implements a comprehensive retail trial analysis framework to evaluate the effectiveness of in-store trials across multiple locations. Using advanced control group methodology, we analyze chip sales performance during a strategic trial period (February-June 2019) to measure trial impact and provide scaling recommendations.
