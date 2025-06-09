@@ -2,7 +2,7 @@
 ## Retail Strategy and Analytics
 
 <div align="center">
-  <img src="img/quantium-logo.jpg" alt="Quantium Logo" width="900"/>
+  <img src="img/quantium-logo.png" alt="Quantium Logo" width="900"/>
 </div>
 
 
