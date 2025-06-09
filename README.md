@@ -75,15 +75,15 @@ The analysis employs a sophisticated matching process using correlation analysis
 
 Store 77 demonstrated excellent baseline compatibility with its selected control store (Store 233). The pre-trial analysis shows strong correlation and similar performance patterns across both sales and customer metrics during the 8-month validation period.
 
-![Pre-trial Sales Comparison - Store 77](store77_img1.png)
-![Pre-trial Customer Comparison - Store 77](store77_img2.png)
+![Pre-trial Sales Comparison - Store 77](figures/store77_img1.png)
+![Pre-trial Customer Comparison - Store 77](figures/store77_img2.png)
 
 The pre-trial validation confirms that Store 233 provides a credible counterfactual scenario, with consistent parallel trends throughout the baseline period. This strong foundation enables confident interpretation of trial period results.
 
 **Trial Impact Results**
 
-![Sales Impact Analysis - Store 77](store77_img3.png)
-![Customer Impact Analysis - Store 77](store77_img4.png)
+![Sales Impact Analysis - Store 77](figures/store77_img3.png)
+![Customer Impact Analysis - Store 77](figures/store77_img4.png)
 
 Store 77 delivered exceptional performance during the trial period, with statistically significant increases in both sales revenue and customer acquisition. The analysis revealed highly significant results with March 2019 showing a t-value of 7.34 and April 2019 achieving a t-value of 12.48, both well above the 1.895 threshold for 95% confidence.
 
@@ -97,15 +97,15 @@ Store 77 delivered exceptional performance during the trial period, with statist
 
 Store 86 showed reasonable correlation with its control store (Store 155), though with slightly higher baseline variation compared to other trial stores. The pre-trial assessment provides adequate foundation for impact measurement, with generally consistent trends.
 
-![Pre-trial Sales Comparison - Store 86](store86_img1.png)
-![Pre-trial Customer Comparison - Store 86](store86_img2.png)
+![Pre-trial Sales Comparison - Store 86](figures/store86_img1.png)
+![Pre-trial Customer Comparison - Store 86](figures/store86_img2.png)
 
 **Trial Impact Results**
 
 Store 86 presents an intriguing case of mixed results that requires careful interpretation. The sales impact analysis shows performance remaining within confidence intervals for the majority of trial months, indicating no statistically significant sales uplift. However, customer acquisition tells a different story.
 
-![Sales Impact Analysis - Store 86](store86_img3.png)
-![Customer Impact Analysis - Store 86](store86_img4.png)
+![Sales Impact Analysis - Store 86](figures/store86_img3.png)
+![Customer Impact Analysis - Store 86](figures/store86_img4.png)
 
 The customer impact analysis reveals significant increases across all trial months, with performance consistently above the 95% confidence interval. This creates a paradox: more customers visiting the store but not generating proportional sales increases.
 
@@ -121,13 +121,13 @@ The customer impact analysis reveals significant increases across all trial mont
 
 Store 88 achieved the strongest control store match with Store 237, demonstrating excellent correlation and minimal deviation throughout the pre-trial period. This represents the highest quality baseline for counterfactual analysis.
 
-![Pre-trial Sales Comparison - Store 88](store88_img1.png)
-![Pre-trial Customer Comparison - Store 88](store88_img2.png)
+![Pre-trial Sales Comparison - Store 88](figures/store88_img1.png)
+![Pre-trial Customer Comparison - Store 88](figures/store88_img2.png)
 
 **Trial Impact Results**
 
-![Sales Impact Analysis - Store 88](store88_img3.png)
-![Customer Impact Analysis - Store 88](store88_img4.png)
+![Sales Impact Analysis - Store 88](figures/store88_img3.png)
+![Customer Impact Analysis - Store 88](figures/store88_img4.png)
 
 Store 88 demonstrated clear positive trial impact with performance outside confidence intervals for 2 out of 3 trial months. Both sales and customer metrics showed significant positive responses, indicating successful trial implementation with sustainable growth patterns rather than temporary spikes.
 
